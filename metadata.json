@@ -1,0 +1,6 @@
+{
+  "name": "Apex Dental Studio",
+  "description": "Interactive dental practice demo featuring online appointment booking, before & after smile gallery slider, AI patient inquiry chatbot, and integrated patient portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
